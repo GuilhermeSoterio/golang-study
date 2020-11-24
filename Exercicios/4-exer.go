@@ -13,7 +13,7 @@ type lasanha int
 
 var x lasanha
 
-func main() {
+//func main() {
 
 	fmt.Printf("%v, %T\n", x, x)
 	x = 42
